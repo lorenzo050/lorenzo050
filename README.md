@@ -2,7 +2,7 @@
 
 
 
-*Programador y Técnico Informático* :computer:
+*Programador de aplicaciones web y multiplataforma* :computer:
 
 ---
 Titulos  :mortar_board:
@@ -16,9 +16,13 @@ Proyectos :space_invader:
 
 * Videojuego Dungeon 256 en Play Store Android :video_game:
 <img src="captura2.jpeg" width="300" height="200">
+Link:
 
 <a href="https://play.google.com/store/apps/details?id=com.lnzcreations.Dungeon256">![Badge play store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 </a>
+
+* Web / App de adopción de animales Link A Pet
+Link : https://linkapet-a20e4.web.app/tabs/adopcion
 
 <!-- ![Imatge 1 - 2cm](playStoreDungeon.png){width=2cm} -->
 Aptitudes :floppy_disk:
