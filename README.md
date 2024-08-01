@@ -21,9 +21,7 @@ https://play.google.com/store/apps/details?id=com.lnzcreations.Dungeon256</a>
 
 ### Web / App de adopción de animales 'Link A Pet'
 
-<img src="img/linkapet1.png" width="150">
-<img src="img/linkapet2.png" width="150">
-<img src="img/linkapet3.png" width="155">
+<img src="img/linkapet1.png" width="150"><img src="img/linkapet2.png" width="150"><img src="img/linkapet3.png" width="155">
 
 Links : 
 https://linkapet-a20e4.web.app/tabs/adopcion
